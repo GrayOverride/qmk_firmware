@@ -97,7 +97,7 @@ LAYOUT( /* Left */
 LAYOUT( /* Tab */
   KC_ESC,  KC_CALC, KC_WHOM, KC_MYCM, KC_WREF, _______, _______, _______, _______, _______, KC_PSCR, CTRADEL,
   _______, _______, _______, _______, _______, _______, _______, KC_VOLD, KC_VOLU, _______, _______, _______,
-  _______, LED_TOG, LED_CHG, _______, _______,   RESET, _______, KC_MUTE, _______, KC_MS_BTN1, KC_MS_U, KC_MS_BTN2,
+  RESET, RGB_TOG, RGB_MOD, RGB_HUI, RGB_SAI,   RGB_VAI, _______, KC_MUTE, _______, KC_MS_BTN1, KC_MS_U, KC_MS_BTN2,
   _______, _______, _______, _______, _______,     _______,      _______, _______, KC_MS_L, KC_MS_D, KC_MS_R
 ),
 
